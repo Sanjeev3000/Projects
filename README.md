@@ -14,7 +14,7 @@ Technologies :
 
 •	Microsoft Visual Studio, language C# and windows Form as type of project. •	Use the model object of DAO (Data Access Object)
 
-PROJECT TITLE: Remax Managemen Software 2018
+PROJECT TITLE: Remax Management Software 2018
 
 Description :
 
